@@ -1,1 +1,2 @@
 <h1>CODE ONLY BY SHARING THE SAME SCHEMATIC AS EX6!!!</h1>
+<h2>Code of EX7, 8, 9 is inside EX10</h2>
